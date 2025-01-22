@@ -10,3 +10,5 @@ Welcome to **Melofy**, your ultimate music streaming destination! Melofy is a pl
 - **Create & Share**: Build your own playlists and share them with friends.
 - **High-Quality Streaming**: Experience crystal-clear audio quality.
 - **Smart Recommendations**: Get music suggestions based on your listening habits.
+
+  ![Melofy](https://github.com/Neha2308-Verma/Melofy-Music-Website/blob/58009ce0e39becfa6d65450fc7e275bc51ff06a1/Melofy.png)
